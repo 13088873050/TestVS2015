@@ -1,0 +1,17 @@
+﻿Build started 2020/09/26 21:14:50.
+     1>Project "E:\VS2015 Code\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ButtonMy.cpp MFCApplication1.cpp MFCApplication1Dlg.cpp
+         MFCApplication1Dlg.cpp
+     1>e:\vs2015 code\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(49): error C2065: 'p': undeclared identifier
+     1>e:\vs2015 code\mfcapplication1\mfcapplication1\mfcapplication1dlg.cpp(49): error C2541: 'delete': cannot delete objects that are not pointers
+         ButtonMy.cpp
+         Generating Code...
+         Compiling...
+         MFCApplication1.cpp
+         Generating Code...
+     1>Done Building Project "E:\VS2015 Code\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36
